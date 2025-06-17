@@ -51,10 +51,13 @@ You can easily create a bootable USB using [Rufus](https://rufus.ie/).
 5. Follow the on-screen steps to install the OS on your preferred partition.
 
 ---
-
+## Downloadable Link
+1. [Google Drive](https://drive.google.com/file/d/1TRtomH9dwTwfQif01pwq66C7rB-0gyff/view?usp=sharing).
+2. [Media Fire](https://www.mediafire.com/file/hdujwp2087kg0tx/Frenzy+1.1.iso/file).
+3. [Mega](https://mega.nz/file/Ck4QFawa#RteibJe3Lw-I5A3xPIb5pnnjOurxGKYgLuONeaZeJCQ).
 ## 🖼️ Screenshots
 
-> Add your screenshots here to showcase the UI and performance.
+
 
 ![Frenzy OS Boot Screen](Screenshots/boot.JPG)
 ![Frenzy OS Desktop](Screenshots/desktop.jpg)
