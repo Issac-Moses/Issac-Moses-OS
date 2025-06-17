@@ -56,8 +56,8 @@ You can easily create a bootable USB using [Rufus](https://rufus.ie/).
 
 > Add your screenshots here to showcase the UI and performance.
 
-![Frenzy OS Boot Screen](Screenshots/boot.JPJ)
-![Frenzy OS Desktop](screenshots/desktop.jpg)
+![Frenzy OS Boot Screen](Screenshots/boot.JPG)
+![Frenzy OS Desktop](Screenshots/desktop.jpg)
 
 ---
 
